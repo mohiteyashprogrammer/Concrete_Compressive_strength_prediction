@@ -14,3 +14,9 @@ To access your flask application open new tab in and paste the url:
 ```
 https://{your_url}.ineuron.app:5000/
 ```
+
+'''
+## install all the required pakages
+Pip install -r requirements.txt
+
+'''
